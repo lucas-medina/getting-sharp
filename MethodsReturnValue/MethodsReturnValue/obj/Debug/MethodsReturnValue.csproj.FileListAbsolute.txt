@@ -1,0 +1,7 @@
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsReturnValue\MethodsReturnValue\bin\Debug\MethodsReturnValue.exe.config
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsReturnValue\MethodsReturnValue\bin\Debug\MethodsReturnValue.exe
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsReturnValue\MethodsReturnValue\bin\Debug\MethodsReturnValue.pdb
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsReturnValue\MethodsReturnValue\obj\Debug\MethodsReturnValue.csprojAssemblyReference.cache
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsReturnValue\MethodsReturnValue\obj\Debug\MethodsReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsReturnValue\MethodsReturnValue\obj\Debug\MethodsReturnValue.exe
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsReturnValue\MethodsReturnValue\obj\Debug\MethodsReturnValue.pdb

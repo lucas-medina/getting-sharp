@@ -1,0 +1,6 @@
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsChallenge\MethodsChallenge\bin\Debug\MethodsChallenge.exe.config
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsChallenge\MethodsChallenge\bin\Debug\MethodsChallenge.exe
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsChallenge\MethodsChallenge\bin\Debug\MethodsChallenge.pdb
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsChallenge\MethodsChallenge\obj\Debug\MethodsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsChallenge\MethodsChallenge\obj\Debug\MethodsChallenge.exe
+C:\Users\lucas.santos\Documents\getting-sharp\MethodsChallenge\MethodsChallenge\obj\Debug\MethodsChallenge.pdb
